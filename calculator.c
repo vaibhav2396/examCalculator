@@ -17,7 +17,7 @@ int main(){
                     break;
             case 3:printf("%d",a*b);
                     break;
-            case 4:printf("%d",a/b);
+            case 4:printf("%d",(1.0*a)/b);
                     break;
             case 5:break;
             default:printf("Wrong choice");
